@@ -1,0 +1,71 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1257" measuredH="556" mockupW="1040" mockupH="554">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="217" y="46" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::FieldSet" x="273" y="237" w="171" h="129" measuredW="200" measuredH="170" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>4Homework</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="286" y="336" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cancel%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="370" y="336" w="59" h="27" measuredW="43" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>OK</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::TextInput" x="286" y="276" w="143" h="-1" measuredW="67" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14540253</color>
+        <italic>true</italic>
+        <text>Group%20ID</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::iPhone" x="586" y="46" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="826" y="145" w="-1" h="326" measuredW="16" measuredH="100" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::List" x="612" y="144" w="230" h="328" measuredW="100" measuredH="277" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <rowHeight>55</rowHeight>
+        <size>18</size>
+        <text>03/09/2012%20Math%0A06/09/2012%20Chinese%0A11/09/2012%20English%0A14/09/2012%20Biology%0A22/09/2012%20Physics</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::iPhone" x="959" y="46" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::TextArea" x="986" y="145" w="228" h="333" measuredW="200" measuredH="140" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%0A%20%0A%20%0A06/09/2012%0A%20%0ALorem%20Ipsum%20is%20simply%20dummy%20text%20of%20the%20printing%20and%20typesetting%20industry.%20Lorem%20Ipsum%20has%20been%20the%20industry%27s%20standard%20dummy%20text%20ever%20since%20the%201500s%2C%20when%20an%20unknown%20printer%20took%20a%20galley%20of%20type%20and%20scrambled%20it%20to%20make%20a%20type%20specimen%20book.%20It%20has%20survived%20not%20only%20five%20centuries%2C%20but%20also%20the%20leap%20into%20electronic%20typesetting%0A%20%0AHuiwen</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Title" x="986" y="145" w="-1" h="-1" measuredW="119" measuredH="41" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>32</size>
+        <text>Chinese</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="323" y="3" w="71" h="36" measuredW="71" measuredH="37" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>Login</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="600" y="2" w="-1" h="-1" measuredW="238" measuredH="37" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>All%20Homework%20View</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="943" y="3" w="-1" h="-1" measuredW="314" measuredH="37" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>Detailed%20Homework%20View</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::HRule" x="612" y="366" w="214" h="-1" measuredW="100" measuredH="10" zOrder="14" locked="false" isInGroup="-1"/>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::HRule" x="612" y="201" w="214" h="-1" measuredW="100" measuredH="10" zOrder="15" locked="false" isInGroup="-1"/>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::HRule" x="612" y="252" w="214" h="-1" measuredW="100" measuredH="10" zOrder="16" locked="false" isInGroup="-1"/>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::HRule" x="612" y="303" w="214" h="-1" measuredW="100" measuredH="10" zOrder="17" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>

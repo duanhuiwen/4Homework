@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">4Homework</string>
+    <string name="connection_error">connection error</string>
+    <string name="xml_error">xml error</string>
+<!--     <string name="HOMEWORK">homework</string>
+    <string name="HOMEWORK_ID">homework_id</string>    
+    <string name="TITLE">title</string>
+    <string name="DUE_DATE">due_date</string>
+    <string name="DESCCRIPTION">description</string>
+    <string name="AUTHOR">author</string> -->
+ <string name="today">Today</string>
+  <string name="tomorrow">Tomorrow</string>
+   <string name="later">Later</string>
+  
+</resources>
